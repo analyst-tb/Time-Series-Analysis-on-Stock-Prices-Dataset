@@ -1,5 +1,3 @@
-# 📈 Time Series Analysis on Stock Prices Dataset
-
 ## 📖 Project Overview
 
 This project demonstrates **Time Series Analysis** on a historical stock prices dataset using Python. The objective was to analyze stock price movements over time, identify trends and seasonal patterns, and apply smoothing techniques to better understand the behavior of the data.

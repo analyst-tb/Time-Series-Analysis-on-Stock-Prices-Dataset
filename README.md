@@ -91,6 +91,5 @@ The analysis revealed:
 * Moving Average Smoothing
 * Seasonal Decomposition
 * Python for Data Analysis
-
-This format is professional, easy to read, and suitable for showcasing your project to recruiters, internship supervisors, and potential employers on GitHub.
+This format is professional, easy to read, and suitable for showcasing your project and potential employers on GitHub.
 # Time-Series-Analysis-on-Stock-Prices-Dataset
